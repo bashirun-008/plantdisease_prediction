@@ -1,3 +1,4 @@
+https://plantdiseaseprediction-u4my6a83d6tvmkz4ua4ale.streamlit.app/
 # Plant Disease Classifier
 
 An image classifier that identifies plant diseases from leaf photos using transfer learning.
