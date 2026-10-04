@@ -29,7 +29,7 @@ CLASS_NAMES = [
 
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("plant_disease_model.h5", compile=False)
+       return tf.keras.models.load_model("plant_disease_model.keras", compile=False)
 
 
 model = load_model()
